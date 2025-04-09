@@ -2,13 +2,13 @@
     "schematics": [
         {
             "name": "test",
-            "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/StateMC_partner.litematic",
+            "url": "https://github.com/ReicherSchweizer/SchweizGommePlace/raw/refs/heads/main/MinecraftSchematic.litematic",
             "type": "litematic",
             "x": 30,
             "y": 100,
             "z": -100,
             "autoload": true,
-            "size": 481
+            "size": 8753
         }
     ],
     "version": 1
