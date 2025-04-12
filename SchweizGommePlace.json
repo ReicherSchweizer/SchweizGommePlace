@@ -1,8 +1,8 @@
 {
     "schematics": [
         {
-            "name": "test",
-            "url": "https://github.com/ReicherSchweizer/SchweizGommePlace/raw/refs/heads/main/MinecraftSchematic.litematic",
+            "name": "Schweiz2025",
+            "url": "https://github.com/ReicherSchweizer/SchweizGommePlace/raw/refs/heads/main/Schweiz2025.litematic",
             "type": "litematic",
             "x": 30,
             "y": 100,
