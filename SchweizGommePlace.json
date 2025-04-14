@@ -4,11 +4,11 @@
             "name": "Schweiz",
             "url": "https://github.com/ReicherSchweizer/SchweizGommePlace/raw/refs/heads/main/Schweiz2025.litematic",
             "type": "litematic",
-            "x": -1000,
+            "x": -999,
             "y": -63,
-            "z": 1000,
+            "z": 999,
             "autoload": true,
-            "size": 29843
+            "size": 29844
         }
     ],
     "version": 1
